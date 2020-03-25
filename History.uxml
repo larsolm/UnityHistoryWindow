@@ -1,0 +1,10 @@
+<UXML
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="UnityEngine.UIElements"
+	xsi:schemaLocation="UnityEngine.UIElements ../../UIElementsSchema/UnityEngine.UIElements.xsd">
+	<VisualElement class="horizontalRow">
+		<Button name="back" class="headerButton" text="Back" />
+		<Button name="forward" class="headerButton" text="Forward" />
+	</VisualElement>
+	<ListView class="selectionList" />
+</UXML>
